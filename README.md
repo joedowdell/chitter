@@ -1,2 +1,4 @@
-chitter
+Chitter
 =======
+
+Twitter Clone
